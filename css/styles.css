@@ -66,6 +66,7 @@ p {
 
 .tittle-image {
   width: 30%;
+  height: 100%;
   transform: rotate(25deg);
   position: absolute;
   right: 26%;
